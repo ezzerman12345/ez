@@ -140,7 +140,7 @@ description="Created by EzZeRmAn"
 
 name="EzZeRmAnS - RED SKY AT NIGHT"
 version="1.1.3"
-url="http://www.ezzer-mac.com/builds/ezzers/redsky123.zip"
+url="https://www.dropbox.com/scl/fi/xtjch8rps6jplyz812k7h/rsan-0.5.zip?rlkey=k2mqw6um68u81umn6socah89k&st=2iaud79f&dl=1"
 minor="http://"
 gui="http://"
 kodi="19.4"
