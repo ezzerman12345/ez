@@ -224,7 +224,7 @@ description="Created by EzZeRmAn"
 
 name="EzZeRmAnS - UP DOWN BLACK WHITE THEME"
 version="3.0"
-url="https://www.dropbox.com/scl/fi/flzv5fccl3s5yar1qnisx/updown.zip?rlkey=shd7ppnvnzaek5pmocrzhqj6k&st=he28z0dc&dl=1"
+url=""
 minor="http://"
 gui="http://"
 kodi="21.2"
