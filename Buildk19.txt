@@ -210,7 +210,7 @@ description="Created by EzZeRmAn"
 
 name="EzZeRmAnS - STAIRWAY TO HEAVEN"
 version="1.1.1"
-url="https://www.dropbox.com/scl/fi/yhu0j64ih386mmdigm40q/stairway.zip?rlkey=rupfkyojcn49i2ovg3guu59hb&st=jsixww4h&dl=1"
+url=""
 minor="http://"
 gui="http://"
 kodi="21.2"
