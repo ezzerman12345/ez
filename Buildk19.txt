@@ -126,7 +126,7 @@ description="======EzZeRmAnS BUILDS 20======"
 
 name="EzZeRmAnS - PEAKY BLINDERS"
 version="1.1.1"
-url="https://www.dropbox.com/scl/fi/d5b5md2t93uu3rdzq4nr8/peaky.zip?rlkey=ttfql02klzrwj4cwwmwfaq0kq&st=slu5qip3&dl=1"
+url="https://www.dropbox.com/scl/fi/60xf1xsc9tvo80jminuxe/peaky21.2.zip?rlkey=cfozdk1706u4in9ot5ehmqc6i&st=yytijbgk&dl=1"
 minor="http://"
 gui="http://"
 kodi="21.2"
